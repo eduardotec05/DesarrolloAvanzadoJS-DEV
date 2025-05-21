@@ -13,7 +13,8 @@
  A continuación, se detallan los módulos y las actividades que he completado:
  
  ### Módulo 5: Desarrollo Avanzado en JavaScript
- - **Actividad 1**: [Proyecto Event Loopp y Asincronicidad](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Event%20Loop%20y%20Asincronicidad)
+ - **Actividad 1**: [Proyecto Event Loop y Asincronicidad](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Event%20Loop%20y%20Asincronicidad)
+- **Actividad 2**: [Proyecto Callbacks and JSON](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Callbacks%20and%20JSON)
 
  ## 🚀 Proyectos
  
