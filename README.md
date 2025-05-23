@@ -15,6 +15,7 @@
  ### Módulo 5: Desarrollo Avanzado en JavaScript
  - **Actividad 1**: [Proyecto Event Loop y Asincronicidad](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Event%20Loop%20y%20Asincronicidad)
 - **Actividad 2**: [Proyecto Callbacks and JSON](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Callbacks%20and%20JSON)
+- **Actividad 3**: [Proyecto Fecth y Axios](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Fecth%20y%20Axios)
 
  ## 🚀 Proyectos
  
