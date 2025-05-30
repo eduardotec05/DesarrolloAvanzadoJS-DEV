@@ -18,6 +18,7 @@
 - **Actividad 3**: [Proyecto Fecth y Axios](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Fecth%20y%20Axios)
 - **Actividad 4**: [Proyecto Promesas y Async-Await](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Promesas%20y%20Async-Await)
 - **Actividad 5**: [Proyecto de Manejo de Formularios](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20de%20Manejo%20de%20Formularios)
+- **Actividad 6**: [Proyecto de Validación de formularios con Zod](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20de%20Validaci%C3%B3n%20de%20formularios%20con%20Zod)
 
  ## 🚀 Proyectos
  
