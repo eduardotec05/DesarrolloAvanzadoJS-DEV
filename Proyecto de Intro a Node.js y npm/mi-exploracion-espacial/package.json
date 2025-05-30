@@ -1,0 +1,19 @@
+{
+  "name": "mi-exploracion-espacial",
+  "version": "1.0.0",
+  "description": "Registro de planetas descubiertos",
+  "main": "index.js",
+  "scripts": {
+    "explorar": "node index.js",
+    "explorar:bonito": "node index.js | lolcatjs",
+    "nuevo-planeta": "node agregarPlaneta.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "lolcatjs": "^2.4.3"
+  }
+}
