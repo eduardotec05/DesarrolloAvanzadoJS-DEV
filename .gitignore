@@ -1,0 +1,25 @@
+# Sistema / General
+.DS_Store
+Thumbs.db
+
+# Node.js (backend y frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Vite
+dist/
+
+# SQLite (base de datos local del backend)
+*.sqlite
+
+# Archivos de entorno
+.env
+.env.*.local
+
+# Configuración de editores
+.vscode/
+*.local
+*.tmp
