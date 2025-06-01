@@ -22,12 +22,12 @@
 - **Actividad 7**: [Proyecto de Intro a Node.js y npm](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20de%20Intro%20a%20Node.js%20y%20npm)
 
  ## 🚀 Proyectos
- 
+ - Proyecto Final de Desarrollo Avanzado en JavaScript: [ToDo list y registro de actividades y de usuarios](https://github.com/eduardotec05/DesarrolloAvanzadoJS-DEV/tree/main/Proyecto%20Final)
  
  ## 🛠️ Tecnologías Utilizadas
  
  - **Lenguajes de Programación**: JavaScript.
- - **Herramientas**: Git, Visual Studio Code, NodeJS.
+ - **Herramientas**: Git, Visual Studio Code, NodeJS, SQLite, Express, Boostrap, Vite.
  
  ## 📝 Notas
  
